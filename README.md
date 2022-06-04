@@ -1,5 +1,5 @@
 # Projeto Eletromagnestimo e ondulatória - WPT
-Projeto de transmissão de energia sem fio (Wireless Power Transfer - WPT) desenvolvido por alunos do terceiro semestre de engenharia da computação no Insper.
+Projeto de transmissão de energia sem fio (Wireless Power Transfer - WPT) desenvolvido por alunos do quarto semestre de engenharia da computação no Insper.
 
 ## Objetivo do projeto:
 O objetivo do projeto era de modelar um acoplamento de bobinas ressonantes que não estejam tão próximas, sendo que somente o ar estará presente
