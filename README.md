@@ -8,7 +8,7 @@ Para um relatório mais detalhado do projeto, ver o arquivo [main.ipynb](https:/
 
 
 ## Para rodar o código:
-Para os cálculos numéricos foram usadas bibliotecas externas do python, para ser possível rodar os seguintes comandos podem ser utilizados no terminal:
+Para os cálculos numéricos foram usadas bibliotecas externas do python, caso não tenha as bibliotecas instaladas, rode os seguintes comandos no terminal:
 ```cmd
 pip install numpy
 pip install matplotlib
