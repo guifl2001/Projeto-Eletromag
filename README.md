@@ -14,6 +14,11 @@ pip install numpy
 pip install matplotlib
 ```
 
+## Resultados do projeto:
+- [50 W à 20cm de distância](https://www.youtube.com/watch?v=jJEfETpH_lY)
+- [10.44 W à 33cm de distância](https://www.youtube.com/watch?v=NGXswR7GArU)
+- [Distância máxima de acendimento de 3 Leds](https://github.com/RicardoRibeiroRodrigues/Projeto-Eletromag/blob/main/imgs/LedsAcesos63cm.jpg)
+
 ## Feito por:
 - [Ricardo Ribeiro Rodrigues](https://github.com/RicardoRibeiroRodrigues)
 - [Guilherme Fontana Louro](https://github.com/guifl2001)
